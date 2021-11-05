@@ -1,5 +1,3 @@
-# Laboratorio 1
-
 # PRIMER_PARCIAL_TAREA_1
 
 
