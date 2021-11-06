@@ -100,3 +100,4 @@
 ## 5 CONCLUSIONES
 
 ## 6 BIBLIOGRAFIA
+Métodos de análisis de circuitos. (2015, 29 julio). Fundamentos de Los Circuitos Eléctricos. https://fundamentoscircuitoselectricos.wordpress.com/metodos-de-analisis-de-circuitos/
