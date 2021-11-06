@@ -1,15 +1,12 @@
 # PRIMER PARCIAL TAREA 1
 
 
-##
-
 # Informe Ejercicios Capitulo 1 y 2
-#### Fundamento de circuitos Eléctricos 
-### Ing. Darwin Omar Alulema Flores
+### Fundamento de circuitos Eléctricos 
+#### Ing. Darwin Omar Alulema Flores
 
 #### Integrantes: Padilla Kevin, Samueza David, Avilés David
 
-#
 
 ## 1. OBJETIVOS
 ***Objetivo General***
@@ -100,4 +97,4 @@
 ## 5 CONCLUSIONES
 
 ## 6 BIBLIOGRAFIA
-Métodos de análisis de circuitos. (2015, 29 julio). Fundamentos de Los Circuitos Eléctricos. https://fundamentoscircuitoselectricos.wordpress.com/metodos-de-analisis-de-circuitos/
+Métodos de análisis de circuitos. (2021, 6 Noviembre). Fundamentos de Los Circuitos Eléctricos. https://fundamentoscircuitoselectricos.wordpress.com/metodos-de-analisis-de-circuitos/
