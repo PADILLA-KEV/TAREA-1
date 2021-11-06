@@ -16,7 +16,7 @@
 
  ***Objetivos Específicos***
 
-## 1. MARCO TEÓRICO
+## 2. MARCO TEÓRICO
 ***Capitulo 1***
 
 ***Capitulo 2***
