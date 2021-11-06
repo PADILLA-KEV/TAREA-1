@@ -14,7 +14,7 @@
 ## 1. OBJETIVOS
 ***Objetivo General***
 
- ![](file:///C:/Users/Samue/Downloads/Diagrama%20en%20blanco%20(1).pdf)
+ ![image](https://github.com/JD2408/TAREA-1.wiki.git)
 
  ***Objetivos Específicos***
 
