@@ -21,7 +21,7 @@
 ## 2. MARCO TEÓRICO
 ***Capitulo 1***
 
- ![image](https://i.postimg.cc/xdqjwBg3/Diagrama-en-blanco-3.png)
+ ![image](https://github.com/JD2408/TAREA-1/issues/1#issue-1046567818)
  
  Link: https://postimg.cc/sBdRS6kM
 
