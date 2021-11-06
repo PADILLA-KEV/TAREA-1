@@ -21,7 +21,7 @@
 ## 2. MARCO TEÓRICO
 ***Capitulo 1***
 
- ![](https://github.com/JD2408/TAREA-1/issues/1#issue-1046567818)
+ ![Diagrama en blanco (3)](https://user-images.githubusercontent.com/93794279/140619890-bee33b6a-8136-4b49-a34e-707e47491a6a.png)
  
  Link: https://postimg.cc/sBdRS6kM
 
