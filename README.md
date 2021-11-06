@@ -89,12 +89,12 @@
 
 
 
-## 4 VIDEOS
+## 4. VIDEOS
 **CAPÍTULO 1**
 
 **CAPÍTULO 2**
 
-## 5 CONCLUSIONES
+## 5. CONCLUSIONES
 
-## 6 BIBLIOGRAFIA
+## 6. BIBLIOGRAFIA
 Métodos de análisis de circuitos. (2021, 6 Noviembre). Fundamentos de Los Circuitos Eléctricos. https://fundamentoscircuitoselectricos.wordpress.com/metodos-de-analisis-de-circuitos/
