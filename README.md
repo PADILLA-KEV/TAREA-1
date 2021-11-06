@@ -14,7 +14,7 @@
 ## 1. OBJETIVOS
 ***Objetivo General***
 
- ![image](https://github.com/JD2408/TAREA-1.wiki.git)
+ ![image]((https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/Diagrama en blanco.pdf))
 
  ***Objetivos Específicos***
 
