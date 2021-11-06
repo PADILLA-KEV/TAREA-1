@@ -24,7 +24,7 @@
 ***Capitulo 2***
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
-**CAPÍTULO 1**
+### CAPÍTULO 1
 
 *Sección 1-2 (Notación Científica)*
 
@@ -68,7 +68,7 @@
 
 
 
-**CAPÍTULO 2**
+### CAPÍTULO 2
 
 *Sección 2-2 (Carga Eléctrica)*
 
