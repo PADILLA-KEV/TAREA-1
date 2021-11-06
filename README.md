@@ -21,5 +21,8 @@
 ***Capitulo 2***
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 **Capitulo 1**
+
 **Sección 1-2 (Notación Científica)**
+
+
  _1. Exprese cada uno de los números siguientes en notación científica: _
