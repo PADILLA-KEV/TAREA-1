@@ -18,6 +18,7 @@
 
 ## 1. MARCO TEÓRICO
 ***Capitulo 1***
+
 ***Capitulo 2***
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 **CAPÍTULO 1**
