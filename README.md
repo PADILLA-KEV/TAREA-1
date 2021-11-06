@@ -14,12 +14,14 @@
 ## 1. OBJETIVOS
 ***Objetivo General***
 
- ![image](https://i.postimg.cc/05M5WG3L/Diagrama-en-blanco-1.png)
+
 
  ***Objetivos Específicos***
 
 ## 2. MARCO TEÓRICO
 ***Capitulo 1***
+
+ ![image](https://i.postimg.cc/05M5WG3L/Diagrama-en-blanco-1.png)
 
 ***Capitulo 2***
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
