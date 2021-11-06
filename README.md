@@ -23,7 +23,7 @@
 
  ![image](https://i.postimg.cc/xdqjwBg3/Diagrama-en-blanco-3.png)
  
- Link:https://i.postimg.cc/xdqjwBg3/Diagrama-en-blanco-3.png
+ Link: https://postimg.cc/sBdRS6kM
 
 ***Capitulo 2***
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
