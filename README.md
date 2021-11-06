@@ -22,6 +22,7 @@
 ***Capitulo 1***
 
  ![image](https://i.postimg.cc/xdqjwBg3/Diagrama-en-blanco-3.png)
+ 
  Link:https://i.postimg.cc/xdqjwBg3/Diagrama-en-blanco-3.png
 
 ***Capitulo 2***
