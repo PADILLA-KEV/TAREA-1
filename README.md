@@ -46,7 +46,7 @@
  
  *Sección 1-3 (Notación de Ingeniería y Prefijos Métricos)*
  
-13. Exprese cada uno de los números siguientes en notación de ingeniería:
+7. Exprese cada uno de los números siguientes en notación de ingeniería:
  
 15. Exprese cada número en notación de ingeniería:
  
@@ -62,7 +62,7 @@
 
  *Sección 1-4 (Conversiones de Unidades Métricas)*
  
-27. Realice las conversiones indicadas:
+14. Realice las conversiones indicadas:
  
 29. Sume las siguientes cantidades:
 
@@ -80,7 +80,7 @@
 
 *Sección 2-3 (Voltaje, Corriente y Resistencia)*
 
-5. Determine el voltaje en cada uno de los siguientes casos:
+3. Determine el voltaje en cada uno de los siguientes casos:
 
 7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
 
