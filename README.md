@@ -14,7 +14,7 @@
 ## 1. OBJETIVOS
 ***Objetivo General***
 
- ![image](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/Diagramaenblanco.pdf)
+ ![image](https://i.postimg.cc/05M5WG3L/Diagrama-en-blanco-1.png)
 
  ***Objetivos Específicos***
 
