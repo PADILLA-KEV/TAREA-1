@@ -30,9 +30,9 @@
 
 
 
-1. Exprese cada uno de los números siguientes en notación científica: 
+1) Exprese cada uno de los números siguientes en notación científica: 
  
-3. Exprese cada uno de los números siguientes en notación científica:
+3) Exprese cada uno de los números siguientes en notación científica:
  
 5. Exprese cada uno de los números siguientes en notación científica:
  
