@@ -14,6 +14,8 @@
 ## 1. OBJETIVOS
 ***Objetivo General***
 
+ ![image](file:///C:/Users/Samue/Downloads/Diagrama%20en%20blanco.pdf)
+
  ***Objetivos Específicos***
 
 ## 2. MARCO TEÓRICO
