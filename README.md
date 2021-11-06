@@ -14,7 +14,7 @@
 ## 1. OBJETIVOS
 ***Objetivo General***
 
- ![image](file:///C:/Users/Samue/Downloads/Diagrama%20en%20blanco%20(1).pdf)
+ ![image](C:/Users/Samue/Downloads/Diagrama%20en%20blanco%20(1).pdf)
 
  ***Objetivos Específicos***
 
