@@ -26,4 +26,4 @@
 *Sección 1-2 (Notación Científica)*
 
 
- 1. Exprese cada uno de los números siguientes en notación científica: 
+ 1. Exprese cada uno de los números siguientes en notación científica: \xi
