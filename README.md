@@ -13,7 +13,7 @@
 
 ## 1. OBJETIVOS
 ***Objetivo General***
-![image](https://user-images.githubusercontent.com/84418933/125394321-26fe3100-e36f-11eb-94ef-d76165da8936.png)
+
  ***Objetivos Específicos***
 
 ## 2. MARCO TEÓRICO
