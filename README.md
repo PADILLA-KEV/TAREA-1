@@ -23,9 +23,11 @@
 
 ***Capitulo 2***
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
+
 **CAPÍTULO 1**
 
-****Sección 1-2 (Notación Científica)****
+*Sección 1-2 (Notación Científica)*
+
 
 
  1. Exprese cada uno de los números siguientes en notación científica: 
@@ -64,9 +66,13 @@
  
  29. Sume las siguientes cantidades:
 
+
+
 **CAPÍTULO 2**
 
 *Sección 2-2 (Carga Eléctrica)*
+
+
 
 1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
 
