@@ -90,3 +90,13 @@
 
 15. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
 
+
+
+## 4 VIDEOS
+**CAPÍTULO 1**
+
+**CAPÍTULO 2**
+
+## 5 CONCLUSIONES
+
+## 6 BIBLIOGRAFIA
