@@ -40,7 +40,7 @@
  
  9. Sume los números siguientes:
  
- 11.Sume los números siguientes:
+11. Sume los números siguientes:
  
  
  
