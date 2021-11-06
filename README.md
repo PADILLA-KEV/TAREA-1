@@ -21,7 +21,7 @@
 ## 2. MARCO TEÓRICO
 ***Capitulo 1***
 
- ![image](https://i.postimg.cc/90gWMpxj/Diagrama-en-blanco-2.png)
+ ![image](https://i.postimg.cc/JhCRGtQt/Diagrama-en-blanco.jpg)
 
 ***Capitulo 2***
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
