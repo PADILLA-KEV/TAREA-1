@@ -9,7 +9,7 @@
 
 
 ## 1. OBJETIVOS
-***Objetivo General***
+***Objetivos General***
 
 - Diferenciar el concepto de Notaciòn Cientìfica y notaciòn de Ingenierìa para poder identificar las unidades de mediciòn y sus respectivas conversiones.
 - Debatir las diferencias y los usos del voltaje, corriente y resistencia,para con ellas construir el conpeto de lo que es un circuito electrico y en el poder identificar sus componentes.
