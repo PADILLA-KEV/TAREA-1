@@ -88,6 +88,8 @@
 *Sección 1-4 (Conversiones de Unidades Métricas)*
  
 14. Realice las conversiones indicadas:
+
+<img src="https://latex.codecogs.com/svg.image?5m&space;A&space;" title="5m A " />a microamperes<img src="https://latex.codecogs.com/svg.image?=5*10^-3&space;A=&space;5000\mu&space;&space;A" title="=5*10^-3 A= 5000\mu A" />
  
 15. Sume las siguientes cantidades:
 
