@@ -38,42 +38,9 @@
 *Sección 1-2 (Notación Científica)*
 
 
-
-1. Exprese cada uno de los números siguientes en notación científica: 
- <img src="https://latex.codecogs.com/svg.image?300=&space;3*10^3;75000=&space;7,5*10^4;2000000=&space;2*10^6&space;" title="300= 3*10^3;75000= 7,5*10^4;2000000= 2*10^6 " />
-2. Exprese cada uno de los números siguientes en notación científica:
  
-3. Exprese cada uno de los números siguientes en notación científica:
+*Sección 1-3 (Notación de Ingeniería y Prefijos Métricos)*
  
-4. Exprese cada uno de los números siguientes como un número decimal regular:
- 
-5. Sume los números siguientes:
- 
-6. Sume los números siguientes:
- 
- 
- 
- *Sección 1-3 (Notación de Ingeniería y Prefijos Métricos)*
- 
-7. Exprese cada uno de los números siguientes en notación de ingeniería:
- 
-8. Exprese cada número en notación de ingeniería:
- 
-9. Sume los números siguientes y exprese cada resultado en notación de ingeniería:
- 
-10. Divida los números siguientes y exprese cada resultado en notación de ingeniería:
- 
-11. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico. 
- 
-12. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
- 
-13. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
-
- *Sección 1-4 (Conversiones de Unidades Métricas)*
- 
-14. Realice las conversiones indicadas:
- 
-15. Sume las siguientes cantidades:
 
 
 
@@ -82,24 +49,7 @@
 *Sección 2-2 (Carga Eléctrica)*
 
 
-1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
-
-2. ¿Cuántos coulombs de carga poseen 50x10^31 electrones?
-
-
 *Sección 2-3 (Voltaje, Corriente y Resistencia)*
-
-3. Determine el voltaje en cada uno de los siguientes casos:
-
-4. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
-
-5. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
-
-6. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
-
-7. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
-
-8. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
 
 
 
