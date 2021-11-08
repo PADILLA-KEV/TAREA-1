@@ -67,4 +67,6 @@
 
 
 ## 6. BIBLIOGRAFIA
-Métodos de análisis de circuitos. (2021, 6 Noviembre). Fundamentos de Los Circuitos Eléctricos. https://fundamentoscircuitoselectricos.wordpress.com/metodos-de-analisis-de-circuitos/
+1. FLOYD, THOMAS L. (2007) *Principios de circuitos eléctricos*(8ª ed.).Octava edición. México:PEARSON EDUCACIÓN
+2. Ruiz Vàsquez T. (2004) *Análisis básico de circuitos eléctricos y electrónicos*(1ª ed.). Barcelona, España:ALHAMBRA.
+  
