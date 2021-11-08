@@ -31,7 +31,7 @@
 
 
 1. Exprese cada uno de los números siguientes en notación científica: 
- 
+ <img src="https://latex.codecogs.com/svg.image?300=&space;3*10^3;75000=&space;7,5*10^4;2000000=&space;2*10^6&space;" title="300= 3*10^3;75000= 7,5*10^4;2000000= 2*10^6 " />
 2. Exprese cada uno de los números siguientes en notación científica:
  
 3. Exprese cada uno de los números siguientes en notación científica:
