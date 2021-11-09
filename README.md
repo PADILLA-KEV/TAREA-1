@@ -135,9 +135,39 @@ c)<img src="https://latex.codecogs.com/svg.image?0.02\mu&space;F&plus;&space;330
 
 [![Imagen7.png](https://i.postimg.cc/bY5CFdqL/Imagen7.png)](https://postimg.cc/5jwSX4YF)
 
-8. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
+8. Determine la conductancia para cada uno de los siguientes valores de resistencia:
 
 [![Imagen8.png](https://i.postimg.cc/sDDWS4kN/Imagen8.png)](https://postimg.cc/t7w7GWC3)
+
+
+*Sección 2-4 ( Fuentes de voltaje y de corriente)*
+
+9. Enliste cuatro fuentes de voltaje comunes.
+1;fuente de potencia de cd  2;celda solar  3;generador  4;bateria
+
+10. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
+La fuente de potencia convierte voltaje de Ca en voltaje de Cd
+
+
+*Sección 2-5 (Resistores)*
+
+11. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
+
+[![Imagen9.png](https://i.postimg.cc/JnXbt7Bc/Imagen9.png)](https://postimg.cc/bDzGBhgs)
+
+12. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia:
+
+[![Imagen10.png](https://i.postimg.cc/SKsBB3zp/Imagen10.png)](https://postimg.cc/ZWGs3fcf)
+
+13.  Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
+
+[![Imagen11.png](https://i.postimg.cc/B6ZjfqBn/Imagen11.png)](https://postimg.cc/t1fqhGcK)
+
+14.  Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.
+
+
+
+15.  
 
 ## 4. VIDEOS
 ### CAPÍTULO 1
