@@ -106,7 +106,7 @@ c)<img src="https://latex.codecogs.com/svg.image?0.02\mu&space;F&plus;&space;330
 
 
 1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
-
+[![Imagen1.png](https://i.postimg.cc/TwvFsFRQ/Imagen1.png)](https://postimg.cc/yJnLgf3S)
 2. ¿Cuántos coulombs de carga poseen 50x10^31 electrones?
 
 
