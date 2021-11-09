@@ -89,11 +89,16 @@
  
 14. Realice las conversiones indicadas:
 
-<img src="https://latex.codecogs.com/svg.image?5m&space;A&space;" title="5m A " /> a microamperes <img src="https://latex.codecogs.com/svg.image?=5*10^-3&space;A=&space;5000\mu&space;&space;A" title="=5*10^-3 A= 5000\mu A" />
- 
+a)<img src="https://latex.codecogs.com/svg.image?5m&space;A&space;" title="5m A " /> a microamperes <img src="https://latex.codecogs.com/svg.image?=5*10^-3&space;A=&space;5000\mu&space;&space;A" title="=5*10^-3 A= 5000\mu A" />
+b)<img src="https://latex.codecogs.com/svg.image?3200\mu&space;W" title="3200\mu W" /> a miliwatts <img src="https://latex.codecogs.com/svg.image?=3200*10^-6&space;W=3.2m&space;W" title="=3200*10^-6 W=3.2m W" />
+c)<img src="https://latex.codecogs.com/svg.image?5000k&space;V" title="5000k V" /> a megavolts <img src="https://latex.codecogs.com/svg.image?=5000*10^3&space;V=5M&space;V" title="=5000*10^3 V=5M V" />
+d)<img src="https://latex.codecogs.com/svg.image?10M&space;W" title="10M W" /> a kilowatts <img src="https://latex.codecogs.com/svg.image?10M&space;W" title="10M W" />
+
 15. Sume las siguientes cantidades:
 
-
+a)<img src="https://latex.codecogs.com/svg.image?50m&space;A&space;&plus;&space;680\mu&space;A=50.68m&space;A" title="50m A + 680\mu A=50.68m A" />
+b)<img src="https://latex.codecogs.com/svg.image?120k&space;\Omega&space;&space;&plus;&space;2.2M&space;\Omega&space;=2320k&space;\Omega&space;" title="120k \Omega + 2.2M \Omega =2320k \Omega " />
+c)<img src="https://latex.codecogs.com/svg.image?0.02\mu&space;F&plus;&space;3300p&space;F=23300p&space;F&space;" title="0.02\mu F+ 3300p F=23300p F " />
 
 ### CAPÍTULO 2
 
