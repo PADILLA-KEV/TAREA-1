@@ -111,22 +111,33 @@ c)<img src="https://latex.codecogs.com/svg.image?0.02\mu&space;F&plus;&space;330
 
 2. ¿Cuántos coulombs de carga poseen 50x10^31 electrones?
 
+[![Imagen2.png](https://i.postimg.cc/ryrNhjsZ/Imagen2.png)](https://postimg.cc/xq9m8KKL)
 
 *Sección 2-3 (Voltaje, Corriente y Resistencia)*
 
 3. Determine el voltaje en cada uno de los siguientes casos:
 
+[![Imagen3.png](https://i.postimg.cc/SNw0BDfX/Imagen3.png)](https://postimg.cc/KRrsL7VF)
+
 4. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
+
+[![Imagen4.png](https://i.postimg.cc/BbThRBSF/Imagen4.png)](https://postimg.cc/Wq46krJp)
 
 5. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
 
+[![Imagen5.png](https://i.postimg.cc/7ZZkMf99/Imagen5.png)](https://postimg.cc/mtJJTZ01)
+
 6. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
+
+[![Imagen6.png](https://i.postimg.cc/6QsNsYwj/Imagen6.png)](https://postimg.cc/0zC4DGzD)
 
 7. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
 
+[![Imagen7.png](https://i.postimg.cc/bY5CFdqL/Imagen7.png)](https://postimg.cc/5jwSX4YF)
+
 8. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
 
-
+[![Imagen8.png](https://i.postimg.cc/sDDWS4kN/Imagen8.png)](https://postimg.cc/t7w7GWC3)
 
 ## 4. VIDEOS
 ### CAPÍTULO 1
