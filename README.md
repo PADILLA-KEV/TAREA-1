@@ -16,13 +16,13 @@
 
 
  ***Objetivos Específicos***
--Emplear las normas de Notaciòn Cientìfica para poder realizar operaciones bàsicas.
--Calcular correctamente las conversiones de unidades metricas.
--Reconocer y Aplicar los prefijos mètricos mas usados en la Notaciòn de Ingenierìa.
--Describir las Unidades de Mediciòn, ya seasn fundamentales, complementarias y sus derivados.
--Distinguir los diferentes metodos de mediciòn para las magnitudes fisicas propuestas.
--Reconocer lo que es una fuente de voltaje y una fuente de corriente.
--Illustrar la manera correcta de aplicar las medidas de seguirdad bàsicas en un circuito.
+- Emplear las normas de Notaciòn Cientìfica para poder realizar operaciones bàsicas.
+- Calcular correctamente las conversiones de unidades metricas.
+- Reconocer y Aplicar los prefijos mètricos mas usados en la Notaciòn de Ingenierìa.
+- Describir las Unidades de Mediciòn, ya seasn fundamentales, complementarias y sus derivados.
+- Distinguir los diferentes metodos de mediciòn para las magnitudes fisicas propuestas.
+- Reconocer lo que es una fuente de voltaje y una fuente de corriente.
+- Illustrar la manera correcta de aplicar las medidas de seguirdad bàsicas en un circuito.
 ## 2. MARCO TEÓRICO
 ***Capitulo 1***
 
