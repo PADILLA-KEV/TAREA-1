@@ -183,6 +183,11 @@ La fuente de potencia convierte voltaje de Ca en voltaje de Cd
 ### CAPÍTULO 2
 
 ## 5. CONCLUSIONES
+- Se apreciò que la Notaciòn Cientìfica y la Notaciòn de Ingenieria son muy similares, sin embagro su diferencia radica en que la Notaciòn de Ingenieria el exponente de la base 10 debe ser multiplo de 3.
+- En conclusion las operaciones con estas notaciòn son muy similares a las que se realizan normalmente, pero se debe tener en cuenta las leyes de los exponentes, asi como sus bases.
+- Ratificamos que existen 2 maneras de realizar mediciones, en paralelo o en serie, estas dependen de lo que se quiera medir.
+- Pudimos observar como un circito elèctrico esta compuesto por varios componentes, cada uno depende el otro formando un flujo de energia si falta alguno de estos, en su mayoria de casos provocara un cortocircuito o un corte en este flujo.
 
 ## 6. BIBLIOGRAFIA
-Métodos de análisis de circuitos. (2021, 6 Noviembre). Fundamentos de Los Circuitos Eléctricos. https://fundamentoscircuitoselectricos.wordpress.com/metodos-de-analisis-de-circuitos/
+1. FLOYD, THOMAS L. (2007) Principios de circuitos eléctricos (8ª ed.). México:PEARSON EDUCACIÓN
+2. Ruiz Vàsquez T. (2004) Análisis básico de circuitos eléctricos y electrónicos (1ª ed.). Barcelona, España:ALHAMBRA.
