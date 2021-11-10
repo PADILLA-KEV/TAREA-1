@@ -10,11 +10,19 @@
 
 ## 1. OBJETIVOS
 ***Objetivo General***
+- Diferenciar el concepto de Notaciòn Cientìfica y notaciòn de Ingenierìa para poder identificar las unidades de mediciòn y sus respectivas conversiones.
 
+- Debatir las diferencias y los usos del voltaje, corriente y resistencia,para con ellas construir el conpeto de lo que es un circuito electrico y en el poder identificar sus componentes.
 
 
  ***Objetivos Específicos***
-
+-Emplear las normas de Notaciòn Cientìfica para poder realizar operaciones bàsicas.
+-Calcular correctamente las conversiones de unidades metricas.
+-Reconocer y Aplicar los prefijos mètricos mas usados en la Notaciòn de Ingenierìa.
+-Describir las Unidades de Mediciòn, ya seasn fundamentales, complementarias y sus derivados.
+-Distinguir los diferentes metodos de mediciòn para las magnitudes fisicas propuestas.
+-Reconocer lo que es una fuente de voltaje y una fuente de corriente.
+-Illustrar la manera correcta de aplicar las medidas de seguirdad bàsicas en un circuito.
 ## 2. MARCO TEÓRICO
 ***Capitulo 1***
 
