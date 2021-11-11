@@ -173,9 +173,12 @@ La fuente de potencia convierte voltaje de Ca en voltaje de Cd
 
 14.  Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.
 
+[![Imagen12.png](https://i.postimg.cc/5N695SN3/Imagen12.png)](https://postimg.cc/VdPcmMtr)
 
+15.  ¿Cuál es la resistencia indicada por 4K7?
 
-15.  
+AMARILLO, VIOLETA, ROJO, PLATEADO
+
 
 ## 4. VIDEOS
 ### CAPÍTULO 1
